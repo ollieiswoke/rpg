@@ -1,6 +1,6 @@
 # rpg
-
-A text-based rpg made in python in 2018. There are multiple characters, a hidden boss and more!!1! 
+A text-based rpg made in python in 2018. 
+There are multiple characters, a hidden boss and more!!1! 
 
 RPG conventions (rooms, enemies, loot, etc) are coded from the ground up using object oriented programming. 
 
